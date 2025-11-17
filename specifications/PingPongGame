@@ -1,0 +1,10 @@
+Consider two players P1 and P2.
+P1:
+- Sends value k to P2
+- Waits for value k
+- Increment k
+- And so on...
+
+ P2:
+- Waits for a value x
+- Returns x to the sender.
